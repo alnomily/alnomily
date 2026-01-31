@@ -1,12 +1,12 @@
 # Hi, I'm a Computer Science Student & Developer 👋
 
-I’m a Computer Science student at **Sanaa University** with experience in building **mobile apps** using **android studio** and **desktop applications** with **dot net**. I focus on creating **clean, efficient code** and delivering **scalable, user-friendly solutions**.
+I’m a Computer Science student at **Sanaa University** with experience in building **mobile apps** using **Flutter** and **desktop applications** with **dot net**. I focus on creating **clean, efficient code** and delivering **scalable, user-friendly solutions**.
 
 ## 🔧 Skills
 
-- **Languages**: c# , c++ ,jave 
-- **Frameworks**: dot net , android studio, 
-- **Tools**: sql server, SQLite  , oracle
+- **Languages**: c# , c++ , jave , Dart
+- **Frameworks**: dot net , Flutter
+- **Tools**: sql server, SQLite  , oracle , postgresql
 - **Development**: desktop applications ,android applciations
 
 ## 📫 Let’s Connect
